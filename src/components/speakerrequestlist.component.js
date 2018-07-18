@@ -21,7 +21,7 @@ export default class SpeakerIssue extends Component {
     render() {
         return (
             <div>
-                <IndividualSpeakerRequest />
+                { this.state.SpeakerRequests.map((request, i) => <IndividualSpeakerRequest key={ i } />) }
             </div>
         )
     }
