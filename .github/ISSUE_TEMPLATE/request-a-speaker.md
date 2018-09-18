@@ -1,6 +1,6 @@
 ---
 name: Request a speaker
-about: A template to help people request speakers
+about: Use this if you'd like to request a speaker give a talk at your group
 
 ---
 
