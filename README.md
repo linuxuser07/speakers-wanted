@@ -1,37 +1,34 @@
-# help-wanted board
+# speakers-wanted board
 
-This project is intended to provide Techlahoma Usergroup Leaders and committee chairs a place to search for help. Techlahoma uses [Slack](https://slack.com/) to communicate. If you aren't a part of our Slack channel, you can [sign up here](http://slack.techlahoma.org/).
+This project is intended to provide Techlahoma Usergroup Leaders a place to request speakers. Techlahoma uses [Slack](https://slack.com/) to communicate. If you aren't a part of our Slack channel, you can [sign up here](http://slack.techlahoma.org/).
 
 The board may be used in this manner:
 
-## I need help
-
-  1. A usergroup leader or committee chair has a task they need completed
-  2. The person opens an issue at https://github.com/techlahoma/help-wanted/issues
+## I need speaker
+  
+  1. The UGL opens an issue at https://github.com/techlahoma/speakers-wanted/issues
 
   - Issue information should include:
-    - Usergroup or committee name
+    - Usergroup name
     - Contact person
     - Slack/Twitter handle for contact person
-    - Brief description of issue
-    - Brief description of what is needed
+    - Brief description of talk/topic suggestion
+    - Date for presentation
 
-  3. Issue should be tagged with the appropriate usergroup or committee label
-  4. That's it!
+  3. Issue should be tagged with the appropriate usergroup  
+  4. That's it!   
+  
+## I want to speak
 
-Techlahoma will advertise the board to volunteers as a way to help Techlahoma and their favorite usergroups.
-
-## I want to help
-
-  1. Browse through open issues at [http://techlahoma.github.io/help-wanted](http://techlahoma.github.io/help-wanted)
-  2. Contact the contact person listed on the issue you want to help with
-  3. Assign the issue to yourself and complete it
-  4. That's it! Thanks for your help!
-
+  1. Browse through requests at [https://speakers-wanted.techlahoma.org](https://speakers-wanted.techlahoma.org)
+  2. Contact the contact person listed on the request  
+  3. Coordinate/give the talk!  
+  4. That's it! Thanks for your help!  
 
 Let one of the project owners know if you have any questions!
 
-Project owners:
+Project owners:  
+  
 * @carmalou
 * @seejessicacode
 * @kacollins
