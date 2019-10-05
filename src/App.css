@@ -48,3 +48,12 @@ body {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+.Help-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+.Help-link {
+  margin: auto 2rem;
+}
